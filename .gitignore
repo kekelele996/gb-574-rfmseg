@@ -1,0 +1,18 @@
+# dependencies / builds
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# local env & artifacts
+.env
+*.log
+logs/
+screenshots/
+test-artifacts/
+.DS_Store
+data/
